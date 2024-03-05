@@ -407,22 +407,22 @@ h2 {
   transition: transform 1s, opacity 1s;
 }
 .offer__card-img--first {
-  background-image: url("/img/bluedruga.jpg");
+  background-image: url("/img/czerwonaSiedlce.jpg");
 }
 .offer__card-img--second {
   background-image: url("/img/redmaszyna.jpg");
 }
 .offer__card-img--third {
-  background-image: url("/img/whitejobs.jpg");
+  background-image: url("/img/bluedruga.jpg");
 }
 .offer__card-img--fourth {
-  background-image: url("/img/whitejobs.jpg");
+  background-image: url("/img/s7niebieska.jpg");
 }
 .offer__card-img--fifth {
-  background-image: url("/img/whitejobs.jpg");
+  background-image: url("/img/bialas7.jpg");
 }
 .offer__card-img--sixth {
-  background-image: url("/img/whitejobs.jpg");
+  background-image: url("/img/s14.jpg");
 }
 .offer__card-img-title {
   font-family: "Roboto", sans-serif;
