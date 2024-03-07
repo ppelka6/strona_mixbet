@@ -118,7 +118,6 @@ a {
   right: 0;
   z-index: 1000;
   background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
-  /* display: none; */
 }
 
 .load {
@@ -128,7 +127,6 @@ a {
   transform: translate(-50%, -50%);
   width: 100px;
   height: 100px;
-  /* display: none; */
 }
 
 .load hr {
@@ -352,9 +350,11 @@ h2 {
 .jobs__title {
   margin-bottom: 0.5em;
   text-transform: uppercase;
+  text-align: center;
 }
 .jobs__text {
   font-size: 1.6rem;
+  text-align: center;
 }
 
 .hero-img {
